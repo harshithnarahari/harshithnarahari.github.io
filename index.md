@@ -26,10 +26,10 @@ BizTime IT Solutions - [Front-End-Engineer]
 ### Interesting Projects
 
 - Expense Tracker Application with React Js, TypeScript, Mongo DB, Node Js
-- 
+
 - ECG Signal Classification with Flask, Angular Js, TypeScript, Node Js, Mongo DB
-- 
--
+
+
 
 ---
 
