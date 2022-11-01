@@ -2,10 +2,11 @@
 
 ---
 
-### Category Name 1 
+### Previous Stints
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Northeastern University Information Technology Services]
+• Created a React Js based web app powered by Java Spring Boot microservices and leveraged REST APIs on PostgreSQL for exposing backend microservices to frontend enabling 15,000+ users across Northeastern University
+• Authored CI/CD pipelines using CircleCI for continuous build & deployment and integrated plugins for automated testing and code quality check thus boosting efficiency by over 40%
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
