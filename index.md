@@ -17,8 +17,9 @@
 • Designed CI/CD pipelines using Jenkins for code deployment and automation testing improved testing time by over 35%
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+BizTime IT Solutions - Front-End-Engineer
+• Developed components using Vue Js, JavaScript, SCSS to enhance functionality and user experience on web pages
+• Altered existing codes to make it more modular resulted 15% more responsive web pages on mobile devices
 
 ---
 
