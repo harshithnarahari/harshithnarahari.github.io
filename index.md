@@ -9,8 +9,12 @@
 • Authored CI/CD pipelines using CircleCI for continuous build & deployment and integrated plugins for automated testing and code quality check thus boosting efficiency by over 40%
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Mindtree]
+• Built web application to improve recommendations for an eCommerce client using React Js, Node Js and Python by leveraging MVVM architecture improving the company revenue by over 50%
+• Designed and maintained 30+ REST APIs for client’s application enabling seamless operation achieving high CSAT score
+• Applied Git version control to track changes made in source code involving branching and merging of code across repos
+• Executed stored procedures and devised triggers in SQL to perform calculations and trace records over 30+ Prod tables
+• Designed CI/CD pipelines using Jenkins for code deployment and automation testing improved testing time by over 35%
 
 ---
 [Project 3 Title](http://example.com/)
