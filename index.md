@@ -25,7 +25,7 @@ BizTime IT Solutions - [Front-End-Engineer]
 
 ### Interesting Projects
 
-- [Expense Tracker Application, [React Js, TypeScript, Mongo DB, Node Js]]
+- Expense Tracker Application -> React Js, TypeScript, Mongo DB, Node Js
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
