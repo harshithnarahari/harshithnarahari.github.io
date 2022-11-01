@@ -1,8 +1,11 @@
 title: Harshith Narahari # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
-description: > Seasoned, forward looking Software Engineer with 2+ years background in creating and executing innovative software solutions to enhance productivity for Tech firms. Highly experienced in all aspects of software development lifecycle from concept through to its delivery. Skilled at coordinating with cross-functional teams in a fast-paced deadline-driven environment to steer timely project completion within budgetary constraints. Currently I’m pursuing Masters, exploring the application aspects of Computer Science at Northeastern University. Having studied Computer Science in my Undergrad, I’m enthusiastic about how algorithms can be used to solve our day-to-day problems and optimize our lives. It gives me immense joy working with smart Software Engineers to achieve a common set objective.
-e-mail: harshithnarahari@gmail.com
-  <a href="https://www.linkedin.com/in/harshith-narahari/">View My LinkedIn Profile</a> 
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  First description 
+  <br><br>
+  Second description 
+  <br><br>
+  <a href=https://www.linkedin.com/in/harshith-narahari/>View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
