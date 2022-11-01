@@ -25,11 +25,11 @@ BizTime IT Solutions - [Front-End-Engineer]
 
 ### Interesting Projects
 
-- Expense Tracker Application -> React Js, TypeScript, Mongo DB, Node Js
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- Expense Tracker Application with React Js, TypeScript, Mongo DB, Node Js
+- 
+- ECG Signal Classification with Flask, Angular Js, TypeScript, Node Js, Mongo DB
+- 
+-
 
 ---
 
@@ -37,5 +37,3 @@ BizTime IT Solutions - [Front-End-Engineer]
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
